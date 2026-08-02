@@ -1,0 +1,6 @@
+{
+  "name": "GitSense AI",
+  "description": "Machine Learning-Powered Git Commit Risk Prediction and Repository Analytics Application",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
